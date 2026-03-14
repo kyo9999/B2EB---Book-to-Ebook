@@ -1,3 +1,8 @@
+# iPhone iPad Mac Android Windows
+
+https://kyo9999.github.io
+
+
 <img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 09 11 30" src="https://github.com/user-attachments/assets/50c7ab48-c272-4e78-bddf-c1e18909a102" />
 <img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-20 at 09 04 14" src="https://github.com/user-attachments/assets/104af36d-8309-4b14-b6ff-46d9ce6ce0b3" />
 <img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2026-01-15 at 10 07 50" src="https://github.com/user-attachments/assets/453b255a-001e-4790-9b7f-d54729bd129d" />
